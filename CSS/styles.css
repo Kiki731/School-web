@@ -1,0 +1,245 @@
+/* .navbar{
+    position: fixed;
+    top: 0;
+} */
+
+
+
+.navbar a:hover{
+background-color: #A016F1ff;
+color: white;
+border-radius: 5px;
+}
+.navbar1{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.intro {
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.intro img{
+    width: 500px;
+}
+.panda{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+@media(max-width: 990px) {
+    .panda{
+        display: block;
+        align-items: none;
+        justify-content: none;
+    }
+    .burna{
+        text-align: center;
+    }
+    .khalid{
+        font-size: 10px;
+        text-decoration: dashed;
+    }
+    .help{
+        background-color: #A016F1ff;
+        height: 30vh;
+        align-items: center;
+    }
+    .cards34{
+        display: none;
+    }
+    .cards2{
+        padding-top: 50px;
+    } 
+}
+.khalid{
+    font-weight: bold;
+    font-size: 75px;
+    color: blue;
+}
+.purple{
+    color:  #A016F1ff;
+}
+.help{
+    background-color: #A016F1ff;
+    height: 50vh;
+    background-repeat: no-repeat; 
+}
+.help h2{
+    color: white;
+    padding-top: 30px;
+    font-weight: 600;
+    font-size: 40px;
+}
+/* .one{
+    background-image: url(/IMG/mypattern.png);opacity: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    align-items: center;
+}  */
+.dropdown-item a{
+font-weight: lighter;
+font-size: 10px;
+}
+.dropdown-menu h5 {
+    font-weight: bold;
+    font-size: 19px;
+    color: black ;opacity: 70%;
+    } 
+.card-demo{
+    min-height: 663px;
+}
+.dropdown-menu h5:hover{
+    background-color: white;
+    color: blue;
+}
+.btt{
+    color: blue;
+    border-color: blue;
+    
+}
+
+.title:hover {
+    transform: scale(1.1,1.1);
+    transition: 0.4s ease-in;
+    transition: 0.3s ease-out;
+    cursor: pointer;
+}
+
+.title:hover  .arrow{
+    color:  #A016F1ff;
+}
+
+.title-text:hover {
+    transform: scale(1.0,1.0);
+    transition: 0.4s ease-out;
+    cursor: pointer;
+}
+ .btt:hover{
+    color: white !important;
+    background-color: blue !important; 
+}
+.c1{
+    padding-left: 17px;
+    padding-top: 12px;
+}
+.cards2{
+    margin-top: 40px;
+    height: 100vh;
+}
+.cards2 h5{
+    font-size: 25px;
+    font-weight: 550;
+    font-family:tahoma;
+}
+.big{
+    font-size: 30px;
+    font-weight: 550;
+}
+.wizkid{
+    background-color: lightgrey;
+    border-radius: 5px;
+    padding: 5px;
+}
+.icons{
+    width: 50%;
+}
+.quick{
+    font-weight: 500;
+}
+.fast{
+    text-decoration: none;
+    color: black;
+}
+.bttn {
+    margin-left: 140px;
+    color: white;
+    background-color: blue;
+    border-radius: 25px;
+    padding: 10px;
+    text-decoration: none;
+    margin-top: 350px;
+}
+.extra{
+    text-decoration: none;
+    border-color: blue;
+    padding-left: 100px;
+}
+.burna{
+    padding-bottom: 20px;
+}
+.button-1{
+    color: blue;
+    border-radius: 10px;
+    border-color: blue;
+    padding: 5px;
+    margin-left: 90px;
+}
+.button-1:hover{
+    color: white !important;
+    background-color: lightskyblue !important;
+}
+.cards3{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+.cards3 h5{
+    font-size: 17px;
+    padding-top: 15px;
+    color: #A016F1ff;
+}
+.cards3 p{
+    font-size: 15px;
+}
+.button-2{
+    color: blue;
+    border-radius: 10px;
+    border-color: blue;
+    padding: 5px;
+}
+.button-2:hover{
+    color: white !important;
+    background-color: blue!important;
+}
+.love{
+    color: blue;
+    font-weight: 300;
+    padding-top: 3px;
+    padding-bottom: 20px;
+    text-align: left;
+}
+.mercy{
+    color: gray;
+    padding-bottom: 20px;
+    font-weight: 200;
+    font-size: 18px;
+}
+.loner{
+    padding-top: 8px;
+    font-size: 14px;
+    font-weight: 350;
+}
+.juice{
+    font-weight: 300;
+    font-size: 18px;
+    color: #A016F1ff;
+}
+.atom{
+    margin-top: 40px;
+}
+.feeling h1{
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+}
+.plenty:hover{
+    box-shadow: 1px 3px 5px 1px grey;
+     transform: scale(1.02,1.02);
+    transition: 0.4s ease-in;
+    transition: 0.3s ease-out;
+    cursor: pointer;
+}
+

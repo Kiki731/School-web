@@ -1,0 +1,83 @@
+.navbar{
+    background-color: #A016F1ff ;
+}
+.navbar a{
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    text-decoration: none;
+}
+.log{
+    color: blue;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Franklin Gothic Medium';
+}
+.priority{
+    margin-top: 10px;
+    margin-left: 110px;
+    width: 150px;
+} 
+.pro{
+    margin-bottom: 10px;
+}
+.vl{
+    border-left: 30px red;
+    height: 30vh;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+.ready{
+    color: #A016F1ff;
+    font-weight: 200;
+    font-size: 60px;
+    margin-top: 140px;
+    padding-left: 140px;
+} 
+#read{
+    color: #A016F1ff;
+    font-weight: 200;
+    font-size: 50px;
+    margin-top: 100px;
+}
+.vl {
+    border-left: 4px solid #A016F1ff;
+    height: 400px;
+    position: absolute;
+    left: 50%;
+    margin-left: 29px;
+    top: 120px;
+    width: 0%;
+  }
+  .logger{
+    border: 0px solid #e67e22;
+    border-radius: 2px;
+    height: 80vh;
+    border-spacing: 10px;
+    margin-top: 30px;
+    box-shadow: 1px 3px 5px 4px grey;
+  }
+  #rob{
+    text-decoration: none;
+    color: white;
+  }
+  #rob:hover{
+    color: white;
+  }
+  .priv{
+    margin-left: 160px;
+    margin-top: 30px;
+  }
+  .cod{
+    color: white;
+    text-decoration: none;
+  }
+  .cod:hover{
+    color: white;
+  }
+  .woo{
+    margin-left: 120px;
+    padding-top: 40px;
+  }
