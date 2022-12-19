@@ -23,6 +23,16 @@ border-radius: 5px;
 .intro img{
     width: 500px;
 }
+.goat{
+    margin-left: 140px;
+}
+.hawaii{
+    text-decoration: none;
+    color: white;
+}
+.hawaii:hover{
+    color: white;
+}
 .panda{
     align-items: center;
     display: flex;
@@ -53,6 +63,31 @@ border-radius: 5px;
     .cards2{
         padding-top: 50px;
     } 
+    .goat{
+        margin-left: 110px;
+        margin-bottom: 20px;
+    }
+    .help{
+        padding: 20px;
+    }
+    .France{
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .Croatia{
+        margin-bottom: 20px;
+    }
+    .prank{
+        margin-top: 1400px;
+        margin-bottom: 0px;
+    }
+    .plenty{
+        margin-top: 20px;
+        margin-left: 30px;
+    }
+}
+.bottt{
+    display: none;
 }
 .khalid{
     font-weight: bold;
